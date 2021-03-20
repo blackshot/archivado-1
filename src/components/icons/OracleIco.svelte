@@ -1,0 +1,1 @@
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle">

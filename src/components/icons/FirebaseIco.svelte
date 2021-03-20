@@ -1,0 +1,1 @@
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase">

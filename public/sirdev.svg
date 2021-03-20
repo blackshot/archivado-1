@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        font-size: 181px;
+        fill: #f8f47f;
+        font-family: "Ubuntu NF";
+      }
+
+      .cls-2 {
+        fill: #00d1b2;
+      }
+    </style>
+  </defs>
+  <text id="SirDev" class="cls-1" x="63" y="141">Sir<tspan class="cls-2">Dev</tspan></text>
+</svg>

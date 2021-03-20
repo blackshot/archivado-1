@@ -1,0 +1,12 @@
+@use './variables' as *;
+
+:root{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: $body-line-height;
+}
+h1, h2, h3, h4{
+    line-height: $body-line-height!important;
+}
+
+@import 'node_modules/bulma/bulma.sass';
+
