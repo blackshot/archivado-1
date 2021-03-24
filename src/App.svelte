@@ -4,7 +4,7 @@
   import { routes } from '../.routify/routes'
   
   const config = {
-    urlTransform: { apply: url => `/portfolio${url}` }
+    urlTransform: { apply: url => `/portfolio${url}`, remove: url => url.replace('/portfolio', '') }
   }
 </script>
 
